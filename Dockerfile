@@ -4,6 +4,7 @@ RUN apt-get update && apt-get install -q -y \
   ros-indigo-pepper-robot \
   ros-indigo-pepper-bringup \
   ros-indigo-pepper-description \
+  ros-indigo-naoqi-pose \
   ros-indigo-find-object-2d \
   ros-indigo-keyboard \
   tmux \
